@@ -1,0 +1,43 @@
+you can choose a favourite character and set some game mechanics like
+Running, jumping, object destruction, obstacle crossing, treasure hunting, 
+driving, shooting, etc.
+
+you can think of a game space according to your game mechanics. 
+For example, a swimming game may require water as the background, 
+car and bike games may require road and scenery as the background. 
+Space games require the sky as the background.Also, we can set the 
+look and feel of a game using sound and lighting, etc.
+
+pick on a favourite character and in every game story, the main character has to 
+overcome some obstacles. Identify the main obstacle here in your game, 
+which the character is trying to overcome it.
+
+you can choose a character and motivate it by setting scores and 
+the score should increase as the player plays.
+you can also introduce rules to make the player lose or win.
+eg:the score should increase by either running or jumping and the player loses 
+the game if the player doesn't land on the bridges.
+
+you can select balloon as a player character and nails as obstacles.
+you can score some points as long as it moves above!
+
+you can select a hunter as a player character and spawn zombies.
+player character can shoot the zombies and you can increase points.
+game ends when the zombies touch the hunter!
+
+if you are interested with physics engine games you can create
+a moon lander game. start with adding images and background of space theme. 
+To land the moon lander on the moon, we will need to introduce the gravity factor.
+Gravity is different on different planets as their masses are different. 
+So, a heavier planet will have more gravity and will require more velocity for the rocket to escape.
+Let's understand with examples how the gravity effects can be different for different planets. 
+An astronaut can jump to different heights on different planets and satellites as per gravity. 
+Moon has less gravity hence Astronaut can jump higher while Mars has comparatively more gravity.
+Jupiter has almost 21 times more gravity than moon and hence astronaut is hardly able to jump.
+you can code to control the lander's motion. 
+The rocket can be controlled by the arrow keys.The rocket is 
+given upward thrust by the UP arrow key.you can add some obstacles like meteors and asteroids.
+
+
+
+
